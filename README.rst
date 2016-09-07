@@ -5,7 +5,14 @@ Microsoft Azure Storage SDK for Python
 
 .. image:: https://img.shields.io/pypi/pyversions/azure-storage.svg?maxAge=2592000
     :target: https://pypi.python.org/pypi/azure-storage/0.33.0
-
+    
+.. image:: https://ci.appveyor.com/api/projects/status/stp8aow528krevan/branch/master?svg=true
+    :target: https://ci.appveyor.com/project/rambo-msft/azure-storage-python/branch/master
+    
+.. image:: https://ci.appveyor.com/api/projects/status/stp8aow528krevan/branch/master?svg=true
+    :target: https://ci.appveyor.com/project/rambo-msft/azure-storage-python/branch/master
+    
+    
 This project provides a client library in Python that makes it easy to
 consume Microsoft Azure Storage services. For documentation please see
 the Microsoft Azure `Python Developer Center`_ and our `GitHub.io Reference`_ Page.
